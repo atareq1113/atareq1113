@@ -30,7 +30,7 @@ I'm currently the Head of Technical Support and Solutions Engineering at Nitrane
   Developed internal applications that synchronize and streamline data across systems, including automating Stripe and CRM processes.
 
 - **Custom Software Integrations:**  
-  Built tailored email parsers and resolver plugins using Python, Django Rest Framework, and JavaScript to address unique user needs.
+  Build custom software features for user looking to expand on the capabilities of our software.
 
 - **Previous Roles:**  
   Experience in high-impact customer engagement roles at Bonobos and J.Crew, where I honed leadership, sales, and operational management skills.
