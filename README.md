@@ -17,7 +17,7 @@
 
 ### About Me
 
-I'm currently the Head of Technical Support and Solutions Engineering at Nitrane Software. I manage support communications, develop comprehensive documentation, and build custom integrations and automation tools to enhance customer experience. With a background in Environmental Science and a minor in Computational Data Science from George Mason University (Class of 2024), I bring a unique blend of technical expertise and creative problem-solving to every project.
+I'm currently the Head of Technical Support and Solutions Engineering at Nitrane Software. I manage support communications, develop comprehensive documentation, and build custom integrations and automation tools to enhance customer and business experience. With a background in Environmental Science and a minor in Computational Data Science from George Mason University (Class of 2024), I bring a unique blend of technical expertise and creative problem-solving to every project.
 
 ---
 
