@@ -11,7 +11,7 @@
 
 - **Email:** [abdullahtareq1113@gmail.com](mailto:abdullahtareq1113@gmail.com)
 - **Phone:** 540-255-5365
-- **LinkedIn:** [Your LinkedIn Profile](#) <!-- update with your URL -->
+- **LinkedIn:** [Abdullah](www.linkedin.com/in/abdullah-tareq-b1a627252) 
 
 ---
 
